@@ -1,0 +1,17 @@
+.reg_bg{
+    padding: 5%;
+    background-color: rgb(173, 134, 209);
+    box-shadow: 5px 5px 5px black;
+    
+}
+.register_btn{
+    background-color: rgb(173, 134, 209);
+}
+
+.register_btn:hover{
+    background-color: black;
+}
+
+.reg_bg2{
+    border-radius: 20px;
+}
