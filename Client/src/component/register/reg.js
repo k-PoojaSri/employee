@@ -104,7 +104,7 @@ export function Registration(){
                                 <input type="text" name="salary" className="mb-3 px-3 py-2 col-12 col-lg-7 col-md-5"  id="salary" placeholder="enter the salary" /> <br/>
                                 <input type="date" name="hiredate" className="mb-3 px-3 py-2 col-12 col-lg-7 col-md-5"  id="hiredate" placeholder="enter the hiredate" /> <br/>
                                 <input type="text" name="userimg" className="mb-4 px-3 py-2 col-12 col-lg-7 col-md-5"  id="userimg" placeholder="enter the Userimg" /> <br/>
-                                <button type="submit" className="mb-3 col-12 col-lg-7 col-md-5 btn reg_btn text-white ">submit</button>
+                                <button type="submit" className="mb-3 col-12 col-lg-7 col-md-5 btn register_btn text-white ">submit</button>
                                 
                             </div>
                         </form>
